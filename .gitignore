@@ -1,0 +1,6 @@
+hello_world/.gitignore
+
+__pycache__/
+.vscode/
+venv/
+db.sqlite3
